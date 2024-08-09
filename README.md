@@ -1,2 +1,2 @@
 # conflict-test
-conflict-test
+conflict-test changes
